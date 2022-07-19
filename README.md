@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+appleflagship@gmail.com
 <!--
 **dianaswitra123/dianaswitra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started: appleflagship@gmail.com
 - 📫 How to reach me: ... appleflagship@gmail.com
 - 😄 Pronouns: ... appleflagship@gmail.com
 - ⚡ Fun fact: ... appleflagship@gmail.com
--->🎉
+-->🎉 appleflagship@gmail.com
+ma
